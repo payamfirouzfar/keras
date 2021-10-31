@@ -1,2 +1,4 @@
 # Deep  neural network with Keras
-thw maqale code is not completed yet
+
+
+First importing the needed libraries
